@@ -1,2 +1,1 @@
-# TinDog
-A website challenge
+TinDog Starting Files
